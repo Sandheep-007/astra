@@ -1,0 +1,6 @@
+vosk
+SpeechRecognition
+pyttsx3
+pyaudio
+requests
+duckduckgo-search
