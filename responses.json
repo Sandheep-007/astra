@@ -1,0 +1,52 @@
+{
+  "greeting": [
+    "Hey! How can I help you today?",
+    "Hi! What can I do for you?",
+    "Hello there! Ready when you are.",
+    "Hi! I'm here to assist.",
+    "Hey! What's up?"
+  ],
+  "not_found": [
+    "I’m not sure what that means. Could you try again?",
+    "Hmm, I didn’t get that. Want to rephrase?",
+    "That’s new to me. Maybe try another way to say it?",
+    "I'm not quite sure what you're asking."
+  ],
+  "internet_error": [
+    "Looks like the internet’s down right now.",
+    "I can’t connect to the web. Try again later.",
+    "No connection detected at the moment.",
+    "I'm having trouble reaching the internet."
+  ],
+  "fallback": [
+    "I didn't find a specific answer, but I looked it up online.",
+    "Here's something I found that might help.",
+    "I couldn't get a direct answer, but I searched it for you.",
+    "I ran a quick search—maybe this helps."
+  ],
+  "exit": [
+    "Goodbye! Shutting down now.",
+    "Talk to you later!",
+    "Astra signing off. See you soon!",
+    "Okay, ending session now."
+  ],
+  "unclear": [
+    "Sorry, I didn't quite catch that.",
+    "Hmm, could you say that again?",
+    "I’m not sure what you meant there.",
+    "Can you repeat that, please?"
+  ],
+  "open_app": [
+    "Opening it up for you!",
+    "Here you go!",
+    "Just a sec... launching now.",
+    "Got it! Starting it up.",
+    "Opening as requested."
+  ],
+  "app_not_found": [
+    "I couldn't find that app, but I searched it online for you.",
+    "Doesn’t seem installed, but I ran a quick search.",
+    "That one's not on this device. I searched it instead.",
+    "App not found—showing you search results."
+  ]
+}

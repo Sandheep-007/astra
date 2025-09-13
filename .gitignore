@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.idea/
+
+# Build / distribution
+build/
+dist/
+*.spec
+*.exe
+
+# VOSK model (too large for GitHub)
+vosk-model-small-en-us-0.15/
+
+# Logs / temp
+*.log
+file_list.txt
